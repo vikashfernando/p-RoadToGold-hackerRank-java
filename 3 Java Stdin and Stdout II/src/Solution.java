@@ -7,7 +7,6 @@ public class Solution {
         int i = scan.nextInt();
 
 
-
         
 
 
