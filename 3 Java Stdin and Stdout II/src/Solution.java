@@ -6,6 +6,8 @@ public class Solution {
         Scanner scan = new Scanner(System.in);
         int i = scan.nextInt();
 
+
+        
         // Write your code here.
 
         System.out.println("String: " + s);
