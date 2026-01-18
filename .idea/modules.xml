@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/1/1.iml" filepath="$PROJECT_DIR$/1/1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1 welcome to java/1 welcome to java.iml" filepath="$PROJECT_DIR$/1 welcome to java/1 welcome to java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 Java Stdin and Stdout I/2 Java Stdin and Stdout I.iml" filepath="$PROJECT_DIR$/2 Java Stdin and Stdout I/2 Java Stdin and Stdout I.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3 Java Stdin and Stdout II/3 Java Stdin and Stdout II.iml" filepath="$PROJECT_DIR$/3 Java Stdin and Stdout II/3 Java Stdin and Stdout II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4 Java If-Else/4 Java If-Else.iml" filepath="$PROJECT_DIR$/4 Java If-Else/4 Java If-Else.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/p-RoadToGold-hackerRank-java.iml" filepath="$PROJECT_DIR$/.idea/p-RoadToGold-hackerRank-java.iml" />
     </modules>
   </component>
