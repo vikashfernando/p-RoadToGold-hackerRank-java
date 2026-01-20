@@ -26,12 +26,8 @@ public class Solution {
             flag=false;
             System.out.println("java.lang.Exception: Breadth and height must be positive");
         }
-
     }
-
-
-
-
+    
 
     public static void main(String[] args){
         if(flag){
