@@ -8,9 +8,9 @@ public class Solution {
     //Write your code here
     static int H;
     static int B;
-    static boolean flag;
+    static boolean flag=true;
 
-    static void getInput(){
+    static{
 
         Scanner i1=new Scanner(System.in);
 
