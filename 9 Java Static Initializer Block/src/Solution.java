@@ -21,10 +21,15 @@ public class Solution {
         B=i1.nextInt();
 
 
+        //validate inputs
+        if(H<=0 || B<=0){
+            flag=false;
+            System.out.println("java.lang.Exception: Breadth and height must be positive");
+        }
 
     }
 
-    
+
 
 
 
