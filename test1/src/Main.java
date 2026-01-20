@@ -6,6 +6,7 @@ public class Main{
         //variables
         int num1;
         String txt1;
+        int num2;
 
         Scanner i1=new Scanner(System.in);
 
@@ -16,7 +17,11 @@ public class Main{
 
         System.out.println("int converted to String: "+txt1);
 
-        
+        num2=Integer.parseInt(txt1);
+
+        System.out.println("text converted to int:  "+num2);
+
+
 
 
 
